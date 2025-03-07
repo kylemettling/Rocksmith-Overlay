@@ -1,68 +1,81 @@
-import requests
-import json
+import socket
 import time
+import json
+import logging
 
-def get_rocksniffer_data():
-    url = "http://127.0.0.1:9938"
-    retries = 5  # Increased retries
-    initial_wait = 5  # Wait 5 seconds initially to let RockSniffer start
-    time.sleep(initial_wait)
-    for attempt in range(retries):
+# Set up logging
+logging.basicConfig(
+    level=logging.INFO,
+    filename='rocksmith_overlay.log',
+    filemode='a',
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
+
+class RockSnifferReader:
+    def __init__(self, host="localhost", port=9938, retry_interval=5, max_retries=5):
+        self.host = host
+        self.port = port
+        self.retry_interval = retry_interval
+        self.max_retries = max_retries
+        self.sock = None
+
+    def connect(self):
+        """Attempt to connect to RockSniffer with retries."""
+        retries = 0
+        while retries < self.max_retries:
+            try:
+                self.sock = socket.create_connection((self.host, self.port), timeout=10)
+                logger.info(f"Connected to RockSniffer at {self.host}:{self.port}")
+                return True
+            except (ConnectionError, socket.timeout) as e:
+                retries += 1
+                logger.error(f"Connection failed: {e}. Retrying ({retries}/{self.max_retries}) in {self.retry_interval}s...")
+                time.sleep(self.retry_interval)
+        logger.critical("Failed to connect to RockSniffer after max retries.")
+        return False
+
+    def read_data(self):
+        """Read and parse data from RockSniffer."""
+        if not self.sock and not self.connect():
+            return None
+
         try:
-            response = requests.get(url, timeout=2)  # Increased timeout to 2s
-            response.raise_for_status()
-            data = response.json()
-            print(f"Debug: Successfully fetched RockSniffer data on attempt {attempt + 1}, success={data.get('success', False)}")
-            return data
-        except requests.exceptions.RequestException as e:
-            print(f"RockSniffer fetch failed (attempt {attempt + 1}/{retries}): {e}")
-            if attempt < retries - 1:
-                time.sleep(2)  # Backoff with 2s between retries
-            continue
-    print(f"Warning: Failed to connect to RockSniffer after {retries} attempts")
-    return None
+            data = self.sock.recv(1024).decode('utf-8')
+            if not data:
+                logger.warning("No data received, connection may have closed.")
+                self.close()
+                return None
+            logger.info(f"Received raw data: {data}")
+            parsed_data = json.loads(data)  # Assuming RockSniffer sends JSON
+            return parsed_data
+        except (socket.error, json.JSONDecodeError, ConnectionError) as e:
+            logger.error(f"Error reading RockSniffer data: {e}")
+            self.close()
+            return None
+        except Exception as e:
+            logger.critical(f"Unexpected error: {e}")
+            self.close()
+            return None
 
-def update_data():
-    last_data = None
-    while True:
-        data = get_rocksniffer_data()
-        if data:
-            memory_readout = data.get("memoryReadout", {})
-            song_details = data.get("songDetails", {})
-            if not song_details:  # Fallback to memoryReadout if songDetails is null
-                song_details = memory_readout.get("songDetails", {})
-            note_data = memory_readout.get("noteData", {})
-            game_state = memory_readout.get("gameStage", "menu")
-            # Use songID from memoryReadout as primary if songDetails is incomplete
-            song = song_details.get("songName", memory_readout.get("songID", "N/A").replace("CST1_", ""))
-            # Force update if data structure changes significantly
-            should_update = last_data is None or last_data.get("memoryReadout", {}).get("songTimer", -1) != memory_readout.get("songTimer", -1)
-            if should_update:
-                print(f"Debug: Updating data - Song={song}, gameStage={game_state}, is_playing={game_state == 'las_game'}")
-                output = {
-                    "song": song,
-                    "artist": song_details.get("artistName", "N/A"),
-                    "album": song_details.get("albumName", "N/A"),
-                    "hitrate": note_data.get("Accuracy", "N/A"),
-                    "streak": note_data.get("CurrentHitStreak", "N/A"),
-                    "highest_streak": note_data.get("HighestHitStreak", "N/A"),
-                    "is_playing": game_state == "las_game",
-                    "status": "connected"
-                }
-                last_data = data.copy()  # Store last successful data
-            else:
-                output = last_data  # Reuse last data if no significant change
-        else:
-            output = {
-                "song": "N/A",
-                "is_playing": False,
-                "status": "waiting"
-            }
-            last_data = None
-        with open("data.json", "w") as f:
-            json.dump(output, f)
-        time.sleep(1)
+    def close(self):
+        """Close the socket connection."""
+        if self.sock:
+            self.sock.close()
+            logger.info("Socket closed.")
+            self.sock = None
 
+    def __del__(self):
+        """Ensure socket is closed on object destruction."""
+        self.close()
+
+# Example usage for testing
 if __name__ == "__main__":
-    print("Starting RockSniffer reader...")
-    update_data()
+    reader = RockSnifferReader()
+    while True:
+        data = reader.read_data()
+        if data:
+            print(f"Processed data: {data}")
+        else:
+            print("Failed to read data, retrying...")
+        time.sleep(1)  # Adjust polling interval
