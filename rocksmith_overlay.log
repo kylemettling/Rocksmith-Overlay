@@ -1,0 +1,20 @@
+2025-03-07 13:25:00,937 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 13:25:02,950 - WARNING - No data received, connection may have closed.
+2025-03-07 13:25:02,951 - INFO - Socket closed.
+2025-03-07 13:25:02,951 - INFO - Overlay received data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'hitrate': 0.0}
+2025-03-07 13:25:05,955 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 13:25:07,969 - WARNING - No data received, connection may have closed.
+2025-03-07 13:25:07,969 - INFO - Socket closed.
+2025-03-07 13:25:07,969 - INFO - Overlay received data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'hitrate': 0.0}
+2025-03-07 13:25:10,972 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 13:25:12,986 - WARNING - No data received, connection may have closed.
+2025-03-07 13:25:12,986 - INFO - Socket closed.
+2025-03-07 13:25:12,986 - INFO - Overlay received data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'hitrate': 0.0}
+2025-03-07 13:25:15,988 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 13:25:18,003 - WARNING - No data received, connection may have closed.
+2025-03-07 13:25:18,003 - INFO - Socket closed.
+2025-03-07 13:25:18,003 - INFO - Overlay received data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'hitrate': 0.0}
+2025-03-07 13:25:21,006 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 13:25:23,022 - WARNING - No data received, connection may have closed.
+2025-03-07 13:25:23,022 - INFO - Socket closed.
+2025-03-07 13:25:23,022 - INFO - Overlay received data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'hitrate': 0.0}

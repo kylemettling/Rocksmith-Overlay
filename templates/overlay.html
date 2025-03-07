@@ -3,36 +3,18 @@
 
 <head>
     <title>Rocksmith Overlay</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 
 <body>
-    <div id="overlay">
-        <div class="main-content">
-            <div class="left-column">
-                <div class="stats">
-                    <div>Song: <span id="song">N/A</span></div>
-                    <div>Artist: <span id="artist">N/A</span></div>
-                    <div>Album: <span id="album">N/A</span></div>
-                    <div>Theory: <span id="theory">N/A</span></div>
-                    <div>Trivia: <span id="trivia">N/A</span></div>
-                    <div>Hitrate: <span id="hitrate">N/A</span></div>
-                    <div>Streak: <span id="streak">N/A</span></div>
-                    <div>Highest Streak: <span id="highest_streak">N/A</span></div>
-                    <div>Live AI: <span id="live_ai">OFF</span></div>
-                </div>
-                <div class="button-container">
-                    <button id="live_ai_button">Toggle Live AI</button>
-                </div>
-            </div>
-            <div class="chart">
-                <canvas id="hitrate_chart" width="400" height="200"></canvas>
-            </div>
-        </div>
-        <button id="close_button">X</button>
+    <div id="overlay" class="draggable">
+        <p>Song: {{ data.song }}</p>
+        <p>Artist: {{ data.artist }}</p>
+        <p>Album: {{ data.album }}</p>
+        <p>Hitrate: {{ data.hitrate }}%</p>
+        <!-- Add hitrate graph or other UI elements -->
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="/static/script.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 
 </html>

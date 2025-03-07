@@ -1,7 +1,9 @@
 import time
 import logging
 from rocksniffer_reader import RockSnifferReader
-# from overlay import Overlay  # Uncomment if defined
+
+# Global data to share with Flask
+overlay_data = {"song": "N/A", "artist": "N/A", "album": "N/A", "hitrate": 0.0}
 
 logging.basicConfig(
     level=logging.INFO,
@@ -14,19 +16,17 @@ logger = logging.getLogger(__name__)
 class RocksmithOverlay:
     def __init__(self, host="localhost", port=9938):
         self.reader = RockSnifferReader(host=host, port=port)
-        # self.overlay = Overlay()  # Uncomment and adjust
 
     def run(self):
+        global overlay_data
         while True:
             try:
                 data = self.reader.read_data()
-                logger.info(f"Overlay received data: {data}")
-                # Update overlay with data (uncomment and adjust based on your overlay implementation)
-                # if self.overlay:
-                #     self.overlay.update_song(data.get("song", "N/A"))
-                #     self.overlay.update_artist(data.get("artist", "N/A"))
-                #     self.overlay.update_album(data.get("album", "N/A"))
-                #     self.overlay.update_hitrate(data.get("hitrate", 0.0))
+                if data:
+                    overlay_data.update(data)  # Update global data
+                    logger.info(f"Overlay updated with data: {data}")
+                else:
+                    logger.warning("No data received from RockSniffer.")
             except Exception as e:
                 logger.error(f"Error in overlay loop: {e}")
             time.sleep(1)
