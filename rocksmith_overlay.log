@@ -1321,3 +1321,1611 @@
 2025-03-07 14:12:17,305 - INFO - Starting Flask app...
 2025-03-07 14:12:17,322 - WARNING -  * Debugger is active!
 2025-03-07 14:12:17,324 - INFO -  * Debugger PIN: 127-361-066
+2025-03-07 14:15:48,202 - INFO - Starting Flask app...
+2025-03-07 14:15:48,221 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-03-07 14:15:48,221 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 14:15:48,222 - INFO -  * Restarting with stat
+2025-03-07 14:15:48,422 - INFO - Starting Flask app...
+2025-03-07 14:15:48,436 - WARNING -  * Debugger is active!
+2025-03-07 14:15:48,437 - INFO -  * Debugger PIN: 127-361-066
+2025-03-07 14:15:48,443 - INFO - 127.0.0.1 - - [07/Mar/2025 14:15:48] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:15:50,206 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:15:50,428 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:15:52,218 - WARNING - No data received, connection may have closed.
+2025-03-07 14:15:52,218 - INFO - Socket closed.
+2025-03-07 14:15:52,218 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:15:54,232 - WARNING - No data received, connection may have closed.
+2025-03-07 14:15:54,232 - INFO - Socket closed.
+2025-03-07 14:15:54,232 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:15:55,222 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:15:57,235 - WARNING - No data received, connection may have closed.
+2025-03-07 14:15:57,235 - INFO - Socket closed.
+2025-03-07 14:15:57,235 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:15:57,236 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:15:59,248 - WARNING - No data received, connection may have closed.
+2025-03-07 14:15:59,249 - INFO - Socket closed.
+2025-03-07 14:15:59,249 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:00,259 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:02,251 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:02,261 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:02,261 - INFO - Socket closed.
+2025-03-07 14:16:02,261 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:04,274 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:04,274 - INFO - Socket closed.
+2025-03-07 14:16:04,274 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:05,265 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:07,278 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:07,278 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:07,279 - INFO - Socket closed.
+2025-03-07 14:16:07,279 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:09,291 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:09,292 - INFO - Socket closed.
+2025-03-07 14:16:09,292 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:10,281 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:12,294 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:12,295 - INFO - Socket closed.
+2025-03-07 14:16:12,295 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:12,307 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:14,309 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:14,309 - INFO - Socket closed.
+2025-03-07 14:16:14,309 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:15,300 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:17,312 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:17,313 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:17,313 - INFO - Socket closed.
+2025-03-07 14:16:17,313 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:19,326 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:19,326 - INFO - Socket closed.
+2025-03-07 14:16:19,326 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:20,317 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:22,329 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:22,331 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:22,331 - INFO - Socket closed.
+2025-03-07 14:16:22,331 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:24,346 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:24,347 - INFO - Socket closed.
+2025-03-07 14:16:24,347 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:25,341 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:27,350 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:27,356 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:27,356 - INFO - Socket closed.
+2025-03-07 14:16:27,356 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:29,369 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:29,369 - INFO - Socket closed.
+2025-03-07 14:16:29,369 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:30,363 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:32,372 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:32,376 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:32,376 - INFO - Socket closed.
+2025-03-07 14:16:32,376 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:34,390 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:34,390 - INFO - Socket closed.
+2025-03-07 14:16:34,390 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:35,379 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:35,952 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:35] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:37,392 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:37,392 - INFO - Socket closed.
+2025-03-07 14:16:37,392 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:37,394 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:37,529 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:37] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:39,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:39] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:39,411 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:39,411 - INFO - Socket closed.
+2025-03-07 14:16:39,411 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:40,398 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:41,544 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:41] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:42,412 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:42,412 - INFO - Socket closed.
+2025-03-07 14:16:42,413 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:42,415 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:43,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:43] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:44,428 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:44,428 - INFO - Socket closed.
+2025-03-07 14:16:44,428 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:45,414 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:45,551 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:45] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:47,245 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:47] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:47,426 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:47,427 - INFO - Socket closed.
+2025-03-07 14:16:47,427 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:47,430 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:49,443 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:49,443 - INFO - Socket closed.
+2025-03-07 14:16:49,443 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:49,544 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:49] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:50,430 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:51,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:51] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:52,444 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:52,444 - INFO - Socket closed.
+2025-03-07 14:16:52,444 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:52,452 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:53,544 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:53] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:54,465 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:54,465 - INFO - Socket closed.
+2025-03-07 14:16:54,465 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:55,242 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:55] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:55,450 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:57,463 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:57,463 - INFO - Socket closed.
+2025-03-07 14:16:57,463 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:16:57,468 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:16:57,548 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:57] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:59,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:16:59] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:16:59,483 - WARNING - No data received, connection may have closed.
+2025-03-07 14:16:59,483 - INFO - Socket closed.
+2025-03-07 14:16:59,483 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:00,467 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:01,542 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:01] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:02,481 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:02,481 - INFO - Socket closed.
+2025-03-07 14:17:02,481 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:02,494 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:03,242 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:03] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:04,499 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:04,499 - INFO - Socket closed.
+2025-03-07 14:17:04,499 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:05,485 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:05,588 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:05] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:07,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:07] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:07,498 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:07,498 - INFO - Socket closed.
+2025-03-07 14:17:07,499 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:07,502 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:09,514 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:09,514 - INFO - Socket closed.
+2025-03-07 14:17:09,514 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:09,543 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:09] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:10,513 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:11,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:11] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:12,515 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:12,515 - INFO - Socket closed.
+2025-03-07 14:17:12,515 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:12,518 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:13,543 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:13] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:14,531 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:14,531 - INFO - Socket closed.
+2025-03-07 14:17:14,531 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:15,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:15] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:15,516 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:17,528 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:17,529 - INFO - Socket closed.
+2025-03-07 14:17:17,529 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:17,534 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:17,542 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:17] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:19,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:19] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:19,546 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:19,546 - INFO - Socket closed.
+2025-03-07 14:17:19,546 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:20,532 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:21,541 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:21] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:22,545 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:22,546 - INFO - Socket closed.
+2025-03-07 14:17:22,546 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:22,549 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:23,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:23] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:24,561 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:24,561 - INFO - Socket closed.
+2025-03-07 14:17:24,561 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:25,542 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:25] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:25,548 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:27,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:27] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:27,562 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:27,562 - INFO - Socket closed.
+2025-03-07 14:17:27,562 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:27,565 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:29,542 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:29] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:29,577 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:29,577 - INFO - Socket closed.
+2025-03-07 14:17:29,577 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:30,566 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:31,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:31] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:32,579 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:32,579 - INFO - Socket closed.
+2025-03-07 14:17:32,579 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:32,580 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:33,542 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:33] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:34,593 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:34,593 - INFO - Socket closed.
+2025-03-07 14:17:34,593 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:35,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:35] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:35,582 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:37,542 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:37] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:37,594 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:37,594 - INFO - Socket closed.
+2025-03-07 14:17:37,594 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:37,622 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:39,624 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:39,624 - INFO - Socket closed.
+2025-03-07 14:17:39,625 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:40,607 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:42,610 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:42,611 - INFO - Socket closed.
+2025-03-07 14:17:42,611 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:42,641 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:44,643 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:44,643 - INFO - Socket closed.
+2025-03-07 14:17:44,643 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:45,615 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:46,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:17:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:17:47,627 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:47,627 - INFO - Socket closed.
+2025-03-07 14:17:47,627 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:47,645 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:49,657 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:49,657 - INFO - Socket closed.
+2025-03-07 14:17:49,657 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:50,631 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:52,644 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:52,644 - INFO - Socket closed.
+2025-03-07 14:17:52,644 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:52,661 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:54,673 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:54,673 - INFO - Socket closed.
+2025-03-07 14:17:54,673 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:55,658 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:57,662 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:57,662 - INFO - Socket closed.
+2025-03-07 14:17:57,662 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:17:57,677 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:17:59,691 - WARNING - No data received, connection may have closed.
+2025-03-07 14:17:59,691 - INFO - Socket closed.
+2025-03-07 14:17:59,691 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:00,667 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:02,679 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:02,680 - INFO - Socket closed.
+2025-03-07 14:18:02,680 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:02,706 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:04,708 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:04,708 - INFO - Socket closed.
+2025-03-07 14:18:04,708 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:05,680 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:07,694 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:07,694 - INFO - Socket closed.
+2025-03-07 14:18:07,694 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:07,711 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:09,725 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:09,725 - INFO - Socket closed.
+2025-03-07 14:18:09,725 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:10,710 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:12,712 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:12,712 - INFO - Socket closed.
+2025-03-07 14:18:12,713 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:12,738 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:14,741 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:14,741 - INFO - Socket closed.
+2025-03-07 14:18:14,741 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:15,716 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:17,729 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:17,729 - INFO - Socket closed.
+2025-03-07 14:18:17,729 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:17,744 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:19,757 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:19,757 - INFO - Socket closed.
+2025-03-07 14:18:19,757 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:20,743 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:22,744 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:22,744 - INFO - Socket closed.
+2025-03-07 14:18:22,744 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:22,770 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:24,771 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:24,771 - INFO - Socket closed.
+2025-03-07 14:18:24,771 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:25,749 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:27,762 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:27,763 - INFO - Socket closed.
+2025-03-07 14:18:27,763 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:27,775 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:29,787 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:29,787 - INFO - Socket closed.
+2025-03-07 14:18:29,787 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:30,765 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:32,779 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:32,779 - INFO - Socket closed.
+2025-03-07 14:18:32,779 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:32,801 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:34,803 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:34,803 - INFO - Socket closed.
+2025-03-07 14:18:34,803 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:35,794 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:37,795 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:37,796 - INFO - Socket closed.
+2025-03-07 14:18:37,796 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:37,815 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:39,817 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:39,817 - INFO - Socket closed.
+2025-03-07 14:18:39,817 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:40,799 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:42,813 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:42,813 - INFO - Socket closed.
+2025-03-07 14:18:42,813 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:42,820 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:44,833 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:44,833 - INFO - Socket closed.
+2025-03-07 14:18:44,833 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:45,816 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:46,543 - INFO - 127.0.0.1 - - [07/Mar/2025 14:18:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:18:47,829 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:47,829 - INFO - Socket closed.
+2025-03-07 14:18:47,829 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:47,849 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:49,862 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:49,862 - INFO - Socket closed.
+2025-03-07 14:18:49,862 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:50,833 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:52,847 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:52,847 - INFO - Socket closed.
+2025-03-07 14:18:52,847 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:52,875 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:54,880 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:54,880 - INFO - Socket closed.
+2025-03-07 14:18:54,880 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:55,850 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:57,866 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:57,866 - INFO - Socket closed.
+2025-03-07 14:18:57,866 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:18:57,884 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:18:59,903 - WARNING - No data received, connection may have closed.
+2025-03-07 14:18:59,904 - INFO - Socket closed.
+2025-03-07 14:18:59,904 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:00,870 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:02,883 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:02,883 - INFO - Socket closed.
+2025-03-07 14:19:02,883 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:02,917 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:04,921 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:04,921 - INFO - Socket closed.
+2025-03-07 14:19:04,921 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:05,885 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:07,898 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:07,898 - INFO - Socket closed.
+2025-03-07 14:19:07,898 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:07,934 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:09,936 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:09,936 - INFO - Socket closed.
+2025-03-07 14:19:09,936 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:10,901 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:12,915 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:12,915 - INFO - Socket closed.
+2025-03-07 14:19:12,915 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:12,939 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:14,952 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:14,952 - INFO - Socket closed.
+2025-03-07 14:19:14,952 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:15,919 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:17,933 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:17,933 - INFO - Socket closed.
+2025-03-07 14:19:17,933 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:17,954 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:19,967 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:19,968 - INFO - Socket closed.
+2025-03-07 14:19:19,968 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:20,937 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:22,951 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:22,951 - INFO - Socket closed.
+2025-03-07 14:19:22,951 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:22,972 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:24,986 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:24,986 - INFO - Socket closed.
+2025-03-07 14:19:24,986 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:25,969 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:27,975 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:27,975 - INFO - Socket closed.
+2025-03-07 14:19:27,976 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:27,991 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:30,006 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:30,006 - INFO - Socket closed.
+2025-03-07 14:19:30,006 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:30,979 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:32,993 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:32,993 - INFO - Socket closed.
+2025-03-07 14:19:32,993 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:33,010 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:35,022 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:35,023 - INFO - Socket closed.
+2025-03-07 14:19:35,023 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:35,997 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:38,010 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:38,010 - INFO - Socket closed.
+2025-03-07 14:19:38,010 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:38,028 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:40,041 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:40,041 - INFO - Socket closed.
+2025-03-07 14:19:40,041 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:41,022 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:43,026 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:43,026 - INFO - Socket closed.
+2025-03-07 14:19:43,026 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:43,044 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:45,056 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:45,056 - INFO - Socket closed.
+2025-03-07 14:19:45,056 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:46,029 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:46,243 - INFO - 127.0.0.1 - - [07/Mar/2025 14:19:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:19:48,043 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:48,043 - INFO - Socket closed.
+2025-03-07 14:19:48,043 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:48,060 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:50,074 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:50,074 - INFO - Socket closed.
+2025-03-07 14:19:50,074 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:51,060 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:53,073 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:53,073 - INFO - Socket closed.
+2025-03-07 14:19:53,073 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:53,077 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:55,091 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:55,091 - INFO - Socket closed.
+2025-03-07 14:19:55,091 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:56,085 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:19:58,089 - WARNING - No data received, connection may have closed.
+2025-03-07 14:19:58,089 - INFO - Socket closed.
+2025-03-07 14:19:58,089 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:19:58,096 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:00,109 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:00,109 - INFO - Socket closed.
+2025-03-07 14:20:00,109 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:01,094 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:03,106 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:03,106 - INFO - Socket closed.
+2025-03-07 14:20:03,106 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:03,114 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:05,129 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:05,129 - INFO - Socket closed.
+2025-03-07 14:20:05,129 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:06,111 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:08,124 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:08,124 - INFO - Socket closed.
+2025-03-07 14:20:08,124 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:08,144 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:10,147 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:10,148 - INFO - Socket closed.
+2025-03-07 14:20:10,148 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:11,127 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:13,141 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:13,141 - INFO - Socket closed.
+2025-03-07 14:20:13,141 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:13,150 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:15,163 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:15,163 - INFO - Socket closed.
+2025-03-07 14:20:15,163 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:16,155 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:18,164 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:18,168 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:18,168 - INFO - Socket closed.
+2025-03-07 14:20:18,168 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:20,181 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:20,181 - INFO - Socket closed.
+2025-03-07 14:20:20,181 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:21,171 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:23,184 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:23,184 - INFO - Socket closed.
+2025-03-07 14:20:23,184 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:23,185 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:25,199 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:25,199 - INFO - Socket closed.
+2025-03-07 14:20:25,199 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:26,186 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:28,199 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:28,199 - INFO - Socket closed.
+2025-03-07 14:20:28,199 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:28,204 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:30,216 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:30,216 - INFO - Socket closed.
+2025-03-07 14:20:30,216 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:31,202 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:33,216 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:33,216 - INFO - Socket closed.
+2025-03-07 14:20:33,216 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:33,218 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:35,232 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:35,232 - INFO - Socket closed.
+2025-03-07 14:20:35,232 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:36,219 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:38,233 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:38,233 - INFO - Socket closed.
+2025-03-07 14:20:38,233 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:38,235 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:40,248 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:40,248 - INFO - Socket closed.
+2025-03-07 14:20:40,248 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:41,247 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:43,249 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:43,249 - INFO - Socket closed.
+2025-03-07 14:20:43,249 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:43,253 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:45,267 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:45,267 - INFO - Socket closed.
+2025-03-07 14:20:45,267 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:46,253 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:46,544 - INFO - 127.0.0.1 - - [07/Mar/2025 14:20:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:20:48,266 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:48,266 - INFO - Socket closed.
+2025-03-07 14:20:48,266 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:48,271 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:50,286 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:50,287 - INFO - Socket closed.
+2025-03-07 14:20:50,287 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:51,269 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:53,283 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:53,284 - INFO - Socket closed.
+2025-03-07 14:20:53,284 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:53,298 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:55,311 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:55,311 - INFO - Socket closed.
+2025-03-07 14:20:55,311 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:56,285 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:20:58,299 - WARNING - No data received, connection may have closed.
+2025-03-07 14:20:58,299 - INFO - Socket closed.
+2025-03-07 14:20:58,299 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:20:58,324 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:00,327 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:00,327 - INFO - Socket closed.
+2025-03-07 14:21:00,327 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:01,302 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:03,315 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:03,315 - INFO - Socket closed.
+2025-03-07 14:21:03,315 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:03,340 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:05,343 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:05,343 - INFO - Socket closed.
+2025-03-07 14:21:05,343 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:06,319 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:08,333 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:08,333 - INFO - Socket closed.
+2025-03-07 14:21:08,333 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:08,345 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:10,358 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:10,359 - INFO - Socket closed.
+2025-03-07 14:21:10,359 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:11,345 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:13,358 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:13,359 - INFO - Socket closed.
+2025-03-07 14:21:13,359 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:13,363 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:15,376 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:15,376 - INFO - Socket closed.
+2025-03-07 14:21:15,376 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:16,361 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:18,374 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:18,374 - INFO - Socket closed.
+2025-03-07 14:21:18,374 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:18,391 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:20,395 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:20,395 - INFO - Socket closed.
+2025-03-07 14:21:20,395 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:21,378 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:23,390 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:23,390 - INFO - Socket closed.
+2025-03-07 14:21:23,390 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:23,399 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:25,413 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:25,413 - INFO - Socket closed.
+2025-03-07 14:21:25,413 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:26,395 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:28,410 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:28,410 - INFO - Socket closed.
+2025-03-07 14:21:28,410 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:28,425 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:30,427 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:30,427 - INFO - Socket closed.
+2025-03-07 14:21:30,427 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:31,424 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:33,427 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:33,427 - INFO - Socket closed.
+2025-03-07 14:21:33,427 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:33,431 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:35,445 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:35,445 - INFO - Socket closed.
+2025-03-07 14:21:35,445 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:36,430 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:38,443 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:38,443 - INFO - Socket closed.
+2025-03-07 14:21:38,443 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:38,449 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:40,462 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:40,463 - INFO - Socket closed.
+2025-03-07 14:21:40,463 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:41,447 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:43,460 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:43,461 - INFO - Socket closed.
+2025-03-07 14:21:43,461 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:43,468 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:45,482 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:45,482 - INFO - Socket closed.
+2025-03-07 14:21:45,482 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:46,242 - INFO - 127.0.0.1 - - [07/Mar/2025 14:21:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:21:46,463 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:48,476 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:48,476 - INFO - Socket closed.
+2025-03-07 14:21:48,476 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:48,485 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:50,498 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:50,498 - INFO - Socket closed.
+2025-03-07 14:21:50,498 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:51,490 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:53,493 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:53,493 - INFO - Socket closed.
+2025-03-07 14:21:53,493 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:53,502 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:55,516 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:55,516 - INFO - Socket closed.
+2025-03-07 14:21:55,516 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:56,505 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:21:58,509 - WARNING - No data received, connection may have closed.
+2025-03-07 14:21:58,509 - INFO - Socket closed.
+2025-03-07 14:21:58,509 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:21:58,519 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:00,533 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:00,533 - INFO - Socket closed.
+2025-03-07 14:22:00,533 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:01,512 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:03,525 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:03,525 - INFO - Socket closed.
+2025-03-07 14:22:03,525 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:03,548 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:05,551 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:05,551 - INFO - Socket closed.
+2025-03-07 14:22:05,551 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:06,539 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:08,542 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:08,542 - INFO - Socket closed.
+2025-03-07 14:22:08,543 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:08,565 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:10,567 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:10,567 - INFO - Socket closed.
+2025-03-07 14:22:10,567 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:11,546 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:13,559 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:13,559 - INFO - Socket closed.
+2025-03-07 14:22:13,559 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:13,568 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:15,581 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:15,581 - INFO - Socket closed.
+2025-03-07 14:22:15,581 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:16,563 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:18,576 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:18,576 - INFO - Socket closed.
+2025-03-07 14:22:18,576 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:18,584 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:20,598 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:20,598 - INFO - Socket closed.
+2025-03-07 14:22:20,598 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:21,580 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:23,593 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:23,593 - INFO - Socket closed.
+2025-03-07 14:22:23,593 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:23,602 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:25,616 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:25,616 - INFO - Socket closed.
+2025-03-07 14:22:25,616 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:26,598 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:28,610 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:28,610 - INFO - Socket closed.
+2025-03-07 14:22:28,610 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:28,629 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:30,633 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:30,633 - INFO - Socket closed.
+2025-03-07 14:22:30,633 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:31,625 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:33,628 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:33,628 - INFO - Socket closed.
+2025-03-07 14:22:33,628 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:33,635 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:35,648 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:35,648 - INFO - Socket closed.
+2025-03-07 14:22:35,648 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:36,633 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:38,646 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:38,647 - INFO - Socket closed.
+2025-03-07 14:22:38,647 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:38,660 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:40,663 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:40,663 - INFO - Socket closed.
+2025-03-07 14:22:40,664 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:41,650 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:43,663 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:43,663 - INFO - Socket closed.
+2025-03-07 14:22:43,663 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:43,667 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:45,678 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:45,679 - INFO - Socket closed.
+2025-03-07 14:22:45,679 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:46,543 - INFO - 127.0.0.1 - - [07/Mar/2025 14:22:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:22:46,677 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:48,679 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:48,679 - INFO - Socket closed.
+2025-03-07 14:22:48,679 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:48,692 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:50,694 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:50,694 - INFO - Socket closed.
+2025-03-07 14:22:50,694 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:51,682 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:53,695 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:53,695 - INFO - Socket closed.
+2025-03-07 14:22:53,695 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:53,707 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:55,710 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:55,711 - INFO - Socket closed.
+2025-03-07 14:22:55,711 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:56,708 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:22:58,710 - WARNING - No data received, connection may have closed.
+2025-03-07 14:22:58,710 - INFO - Socket closed.
+2025-03-07 14:22:58,710 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:22:58,715 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:00,728 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:00,728 - INFO - Socket closed.
+2025-03-07 14:23:00,728 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:01,714 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:03,727 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:03,727 - INFO - Socket closed.
+2025-03-07 14:23:03,727 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:03,732 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:05,745 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:05,745 - INFO - Socket closed.
+2025-03-07 14:23:05,745 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:06,728 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:08,742 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:08,742 - INFO - Socket closed.
+2025-03-07 14:23:08,742 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:08,750 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:10,763 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:10,763 - INFO - Socket closed.
+2025-03-07 14:23:10,763 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:11,743 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:13,757 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:13,757 - INFO - Socket closed.
+2025-03-07 14:23:13,757 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:13,767 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:15,779 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:15,779 - INFO - Socket closed.
+2025-03-07 14:23:15,779 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:16,772 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:18,775 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:18,775 - INFO - Socket closed.
+2025-03-07 14:23:18,775 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:18,792 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:20,795 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:20,795 - INFO - Socket closed.
+2025-03-07 14:23:20,795 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:21,776 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:23,789 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:23,789 - INFO - Socket closed.
+2025-03-07 14:23:23,789 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:23,796 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:25,810 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:25,810 - INFO - Socket closed.
+2025-03-07 14:23:25,810 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:26,792 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:28,805 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:28,805 - INFO - Socket closed.
+2025-03-07 14:23:28,805 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:28,814 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:30,828 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:30,828 - INFO - Socket closed.
+2025-03-07 14:23:30,828 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:31,810 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:33,824 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:33,824 - INFO - Socket closed.
+2025-03-07 14:23:33,824 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:33,832 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:35,845 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:35,845 - INFO - Socket closed.
+2025-03-07 14:23:35,845 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:36,836 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:38,839 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:38,839 - INFO - Socket closed.
+2025-03-07 14:23:38,839 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:38,859 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:40,862 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:40,862 - INFO - Socket closed.
+2025-03-07 14:23:40,862 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:41,842 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:43,862 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:43,862 - INFO - Socket closed.
+2025-03-07 14:23:43,862 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:43,874 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:45,877 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:45,877 - INFO - Socket closed.
+2025-03-07 14:23:45,877 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:46,241 - INFO - 127.0.0.1 - - [07/Mar/2025 14:23:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:23:46,866 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:48,878 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:48,880 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:48,880 - INFO - Socket closed.
+2025-03-07 14:23:48,880 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:50,893 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:50,893 - INFO - Socket closed.
+2025-03-07 14:23:50,893 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:51,884 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:53,897 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:53,897 - INFO - Socket closed.
+2025-03-07 14:23:53,897 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:53,898 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:55,911 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:55,911 - INFO - Socket closed.
+2025-03-07 14:23:55,911 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:56,900 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:23:58,913 - WARNING - No data received, connection may have closed.
+2025-03-07 14:23:58,913 - INFO - Socket closed.
+2025-03-07 14:23:58,913 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:23:58,916 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:00,930 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:00,930 - INFO - Socket closed.
+2025-03-07 14:24:00,930 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:01,928 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:03,929 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:03,930 - INFO - Socket closed.
+2025-03-07 14:24:03,930 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:03,932 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:05,945 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:05,945 - INFO - Socket closed.
+2025-03-07 14:24:05,945 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:06,933 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:08,947 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:08,947 - INFO - Socket closed.
+2025-03-07 14:24:08,947 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:08,948 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:10,961 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:10,961 - INFO - Socket closed.
+2025-03-07 14:24:10,961 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:11,948 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:13,961 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:13,961 - INFO - Socket closed.
+2025-03-07 14:24:13,961 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:13,974 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:15,976 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:15,976 - INFO - Socket closed.
+2025-03-07 14:24:15,976 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:16,965 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:18,979 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:18,979 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:18,979 - INFO - Socket closed.
+2025-03-07 14:24:18,979 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:20,992 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:20,992 - INFO - Socket closed.
+2025-03-07 14:24:20,992 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:21,982 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:23,995 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:23,995 - INFO - Socket closed.
+2025-03-07 14:24:23,995 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:24,006 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:26,009 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:26,009 - INFO - Socket closed.
+2025-03-07 14:24:26,009 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:26,998 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:29,011 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:29,011 - INFO - Socket closed.
+2025-03-07 14:24:29,011 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:29,023 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:31,026 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:31,026 - INFO - Socket closed.
+2025-03-07 14:24:31,026 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:32,025 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:34,028 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:34,028 - INFO - Socket closed.
+2025-03-07 14:24:34,028 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:34,031 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:36,044 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:36,044 - INFO - Socket closed.
+2025-03-07 14:24:36,044 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:37,032 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:39,046 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:39,046 - INFO - Socket closed.
+2025-03-07 14:24:39,046 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:39,057 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:41,060 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:41,060 - INFO - Socket closed.
+2025-03-07 14:24:41,060 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:42,059 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:44,061 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:44,061 - INFO - Socket closed.
+2025-03-07 14:24:44,061 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:44,073 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:46,075 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:46,075 - INFO - Socket closed.
+2025-03-07 14:24:46,075 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:46,544 - INFO - 127.0.0.1 - - [07/Mar/2025 14:24:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:24:47,065 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:49,078 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:49,078 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:49,078 - INFO - Socket closed.
+2025-03-07 14:24:49,079 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:51,091 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:51,091 - INFO - Socket closed.
+2025-03-07 14:24:51,091 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:52,091 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:54,093 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:54,094 - INFO - Socket closed.
+2025-03-07 14:24:54,094 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:54,096 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:56,109 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:56,109 - INFO - Socket closed.
+2025-03-07 14:24:56,109 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:57,095 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:24:59,109 - WARNING - No data received, connection may have closed.
+2025-03-07 14:24:59,109 - INFO - Socket closed.
+2025-03-07 14:24:59,109 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:24:59,114 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:01,126 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:01,126 - INFO - Socket closed.
+2025-03-07 14:25:01,126 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:02,114 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:04,128 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:04,128 - INFO - Socket closed.
+2025-03-07 14:25:04,128 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:04,128 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:06,141 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:06,141 - INFO - Socket closed.
+2025-03-07 14:25:06,141 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:07,132 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:09,144 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:09,145 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:09,145 - INFO - Socket closed.
+2025-03-07 14:25:09,145 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:11,158 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:11,158 - INFO - Socket closed.
+2025-03-07 14:25:11,158 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:12,150 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:14,164 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:14,164 - INFO - Socket closed.
+2025-03-07 14:25:14,164 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:14,172 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:16,177 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:16,177 - INFO - Socket closed.
+2025-03-07 14:25:16,177 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:17,168 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:19,180 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:19,180 - INFO - Socket closed.
+2025-03-07 14:25:19,180 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:19,181 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:21,194 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:21,194 - INFO - Socket closed.
+2025-03-07 14:25:21,195 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:22,182 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:24,194 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:24,195 - INFO - Socket closed.
+2025-03-07 14:25:24,195 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:24,197 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:26,210 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:26,210 - INFO - Socket closed.
+2025-03-07 14:25:26,210 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:27,199 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:29,212 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:29,212 - INFO - Socket closed.
+2025-03-07 14:25:29,212 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:29,213 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:31,227 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:31,227 - INFO - Socket closed.
+2025-03-07 14:25:31,227 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:32,225 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:34,228 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:34,228 - INFO - Socket closed.
+2025-03-07 14:25:34,228 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:34,231 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:36,245 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:36,245 - INFO - Socket closed.
+2025-03-07 14:25:36,245 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:37,231 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:39,245 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:39,245 - INFO - Socket closed.
+2025-03-07 14:25:39,245 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:39,259 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:41,261 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:41,261 - INFO - Socket closed.
+2025-03-07 14:25:41,261 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:42,247 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:44,260 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:44,261 - INFO - Socket closed.
+2025-03-07 14:25:44,261 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:44,264 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:46,242 - INFO - 127.0.0.1 - - [07/Mar/2025 14:25:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:25:46,277 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:46,277 - INFO - Socket closed.
+2025-03-07 14:25:46,277 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:47,263 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:49,276 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:49,276 - INFO - Socket closed.
+2025-03-07 14:25:49,276 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:49,281 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:51,294 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:51,295 - INFO - Socket closed.
+2025-03-07 14:25:51,295 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:52,290 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:54,292 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:54,293 - INFO - Socket closed.
+2025-03-07 14:25:54,293 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:54,298 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:56,312 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:56,312 - INFO - Socket closed.
+2025-03-07 14:25:56,312 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:57,295 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:25:59,309 - WARNING - No data received, connection may have closed.
+2025-03-07 14:25:59,309 - INFO - Socket closed.
+2025-03-07 14:25:59,309 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:25:59,316 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:01,330 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:01,330 - INFO - Socket closed.
+2025-03-07 14:26:01,330 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:02,314 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:04,330 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:04,330 - INFO - Socket closed.
+2025-03-07 14:26:04,330 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:04,334 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:06,349 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:06,349 - INFO - Socket closed.
+2025-03-07 14:26:06,349 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:07,357 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:09,353 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:09,362 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:09,362 - INFO - Socket closed.
+2025-03-07 14:26:09,362 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:11,379 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:11,379 - INFO - Socket closed.
+2025-03-07 14:26:11,379 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:12,365 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:14,378 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:14,378 - INFO - Socket closed.
+2025-03-07 14:26:14,378 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:14,384 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:16,396 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:16,396 - INFO - Socket closed.
+2025-03-07 14:26:16,396 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:17,382 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:19,396 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:19,396 - INFO - Socket closed.
+2025-03-07 14:26:19,396 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:19,399 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:21,412 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:21,412 - INFO - Socket closed.
+2025-03-07 14:26:21,412 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:22,410 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:24,412 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:24,412 - INFO - Socket closed.
+2025-03-07 14:26:24,412 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:24,416 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:26,429 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:26,429 - INFO - Socket closed.
+2025-03-07 14:26:26,429 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:27,415 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:29,428 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:29,428 - INFO - Socket closed.
+2025-03-07 14:26:29,428 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:29,432 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:31,447 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:31,447 - INFO - Socket closed.
+2025-03-07 14:26:31,447 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:32,431 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:33,734 - INFO -  * Detected change in 'c:\\Users\\baseb\\OneDrive\\Documents\\AI Projection\\Python\\Rocksmith Overlay\\app.py', reloading
+2025-03-07 14:26:33,759 - INFO -  * Restarting with stat
+2025-03-07 14:26:33,991 - INFO - Starting Flask app at http://localhost:5000...
+2025-03-07 14:26:34,008 - WARNING -  * Debugger is active!
+2025-03-07 14:26:34,010 - INFO -  * Debugger PIN: 127-361-066
+2025-03-07 14:26:34,445 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:34,445 - INFO - Socket closed.
+2025-03-07 14:26:34,445 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:34,612 - INFO - Starting standalone PyQt window...
+2025-03-07 14:26:35,973 - INFO - 127.0.0.1 - - [07/Mar/2025 14:26:35] "GET / HTTP/1.1" 200 -
+2025-03-07 14:26:36,000 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:36,251 - INFO - 127.0.0.1 - - [07/Mar/2025 14:26:36] "GET /static/style.css HTTP/1.1" 200 -
+2025-03-07 14:26:36,295 - INFO - 127.0.0.1 - - [07/Mar/2025 14:26:36] "GET /static/script.js HTTP/1.1" 200 -
+2025-03-07 14:26:36,300 - INFO - 127.0.0.1 - - [07/Mar/2025 14:26:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-07 14:26:37,448 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:26:38,013 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:38,014 - INFO - Socket closed.
+2025-03-07 14:26:38,014 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:38,604 - INFO - 127.0.0.1 - - [07/Mar/2025 14:26:38] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:26:40,026 - WARNING - No data received, connection may have closed.
+2025-03-07 14:26:40,026 - INFO - Socket closed.
+2025-03-07 14:26:40,026 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:26:40,302 - INFO - 127.0.0.1 - - [07/Mar/2025 14:26:40] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:25,440 - INFO - Starting Flask app at http://localhost:5000...
+2025-03-07 14:27:25,462 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-03-07 14:27:25,462 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 14:27:26,093 - INFO - Starting standalone PyQt window...
+2025-03-07 14:27:27,447 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:27:27,454 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:27] "GET / HTTP/1.1" 200 -
+2025-03-07 14:27:27,727 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:27] "GET /static/style.css HTTP/1.1" 200 -
+2025-03-07 14:27:27,778 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:27] "GET /static/script.js HTTP/1.1" 200 -
+2025-03-07 14:27:27,783 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-07 14:27:29,462 - WARNING - No data received, connection may have closed.
+2025-03-07 14:27:29,463 - INFO - Socket closed.
+2025-03-07 14:27:29,463 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:27:30,084 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:30] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:31,782 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:31] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:32,464 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:27:34,083 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:34] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:34,478 - WARNING - No data received, connection may have closed.
+2025-03-07 14:27:34,478 - INFO - Socket closed.
+2025-03-07 14:27:34,478 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:27:35,782 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:35] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:37,479 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:27:38,083 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:38] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:39,496 - WARNING - No data received, connection may have closed.
+2025-03-07 14:27:39,496 - INFO - Socket closed.
+2025-03-07 14:27:39,497 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:27:39,781 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:39] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:42,084 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:42] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:42,511 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:27:43,783 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:43] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:44,514 - WARNING - No data received, connection may have closed.
+2025-03-07 14:27:44,514 - INFO - Socket closed.
+2025-03-07 14:27:44,514 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:27:46,084 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:46,543 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:47,517 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:27:47,782 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:47] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:49,530 - WARNING - No data received, connection may have closed.
+2025-03-07 14:27:49,530 - INFO - Socket closed.
+2025-03-07 14:27:49,530 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:27:50,083 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:50] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:51,782 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:51] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:52,535 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:27:54,083 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:54] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:54,547 - WARNING - No data received, connection may have closed.
+2025-03-07 14:27:54,547 - INFO - Socket closed.
+2025-03-07 14:27:54,547 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:27:55,782 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:55] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:57,561 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:27:58,084 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:58] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:27:59,564 - WARNING - No data received, connection may have closed.
+2025-03-07 14:27:59,564 - INFO - Socket closed.
+2025-03-07 14:27:59,564 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:27:59,782 - INFO - 127.0.0.1 - - [07/Mar/2025 14:27:59] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:02,083 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:02] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:02,568 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:03,783 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:03] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:04,581 - WARNING - No data received, connection may have closed.
+2025-03-07 14:28:04,582 - INFO - Socket closed.
+2025-03-07 14:28:04,582 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:28:06,084 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:06] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:07,586 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:07,782 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:07] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:09,603 - WARNING - No data received, connection may have closed.
+2025-03-07 14:28:09,604 - INFO - Socket closed.
+2025-03-07 14:28:09,604 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:28:10,086 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:10] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:11,783 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:11] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:12,607 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:14,084 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:14] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:14,621 - WARNING - No data received, connection may have closed.
+2025-03-07 14:28:14,622 - INFO - Socket closed.
+2025-03-07 14:28:14,622 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:28:15,790 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:15] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:17,628 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:18,084 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:18] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:19,642 - WARNING - No data received, connection may have closed.
+2025-03-07 14:28:19,642 - INFO - Socket closed.
+2025-03-07 14:28:19,642 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:28:19,783 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:19] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:22,084 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:22] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:22,644 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:23,783 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:23] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:24,659 - WARNING - No data received, connection may have closed.
+2025-03-07 14:28:24,659 - INFO - Socket closed.
+2025-03-07 14:28:24,659 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:28:26,107 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:26] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:27,661 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:27,782 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:27] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:29,676 - WARNING - No data received, connection may have closed.
+2025-03-07 14:28:29,676 - INFO - Socket closed.
+2025-03-07 14:28:29,676 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:28:30,113 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:30] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:31,785 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:31] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:32,680 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:34,083 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:34] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:34,696 - WARNING - No data received, connection may have closed.
+2025-03-07 14:28:34,696 - INFO - Socket closed.
+2025-03-07 14:28:34,696 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:28:35,782 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:35] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:37,701 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:38,084 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:38] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:39,717 - WARNING - No data received, connection may have closed.
+2025-03-07 14:28:39,717 - INFO - Socket closed.
+2025-03-07 14:28:39,717 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:28:39,783 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:39] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:42,084 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:42] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:42,720 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:43,782 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:43] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:44,732 - WARNING - No data received, connection may have closed.
+2025-03-07 14:28:44,733 - INFO - Socket closed.
+2025-03-07 14:28:44,733 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:28:46,084 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:46,542 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:47,746 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:47,782 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:47] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:51,281 - INFO - Starting Flask app at http://localhost:5000...
+2025-03-07 14:28:51,304 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-03-07 14:28:51,304 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 14:28:51,935 - INFO - Starting standalone PyQt window...
+2025-03-07 14:28:53,300 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:53,362 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:53] "GET / HTTP/1.1" 200 -
+2025-03-07 14:28:53,639 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:53] "GET /static/style.css HTTP/1.1" 200 -
+2025-03-07 14:28:53,685 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:53] "GET /static/script.js HTTP/1.1" 200 -
+2025-03-07 14:28:53,688 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-07 14:28:55,304 - WARNING - No data received, connection may have closed.
+2025-03-07 14:28:55,304 - INFO - Socket closed.
+2025-03-07 14:28:55,304 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:28:55,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:55] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:57,690 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:57] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:28:58,316 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:28:59,989 - INFO - 127.0.0.1 - - [07/Mar/2025 14:28:59] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:00,319 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:00,320 - INFO - Socket closed.
+2025-03-07 14:29:00,320 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:01,690 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:01] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:03,324 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:03,991 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:03] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:05,337 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:05,337 - INFO - Socket closed.
+2025-03-07 14:29:05,337 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:05,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:05] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:07,991 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:07] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:08,342 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:09,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:09] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:10,359 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:10,359 - INFO - Socket closed.
+2025-03-07 14:29:10,359 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:11,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:11] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:13,360 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:13,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:13] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:15,375 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:15,375 - INFO - Socket closed.
+2025-03-07 14:29:15,375 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:15,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:15] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:17,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:17] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:18,376 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:19,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:19] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:20,388 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:20,389 - INFO - Socket closed.
+2025-03-07 14:29:20,389 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:21,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:21] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:23,394 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:23,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:23] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:25,408 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:25,408 - INFO - Socket closed.
+2025-03-07 14:29:25,408 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:25,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:25] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:27,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:27] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:28,424 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:29,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:29] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:30,428 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:30,428 - INFO - Socket closed.
+2025-03-07 14:29:30,428 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:31,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:31] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:33,440 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:33,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:33] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:35,443 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:35,443 - INFO - Socket closed.
+2025-03-07 14:29:35,443 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:35,991 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:35] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:37,690 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:37] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:38,448 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:39,991 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:39] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:40,462 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:40,462 - INFO - Socket closed.
+2025-03-07 14:29:40,462 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:41,690 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:41] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:43,475 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:43,991 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:43] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:45,478 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:45,478 - INFO - Socket closed.
+2025-03-07 14:29:45,478 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:45,690 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:45] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:46,543 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:47,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:47] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:48,482 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:49,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:49] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:50,495 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:50,495 - INFO - Socket closed.
+2025-03-07 14:29:50,495 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:51,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:51] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:53,504 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:53,690 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:53] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:55,517 - WARNING - No data received, connection may have closed.
+2025-03-07 14:29:55,517 - INFO - Socket closed.
+2025-03-07 14:29:55,518 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:29:55,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:55] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:57,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:57] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:29:58,524 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:29:59,989 - INFO - 127.0.0.1 - - [07/Mar/2025 14:29:59] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:00,537 - WARNING - No data received, connection may have closed.
+2025-03-07 14:30:00,537 - INFO - Socket closed.
+2025-03-07 14:30:00,537 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:30:01,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:01] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:03,544 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:30:03,993 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:03] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:05,560 - WARNING - No data received, connection may have closed.
+2025-03-07 14:30:05,560 - INFO - Socket closed.
+2025-03-07 14:30:05,560 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:30:05,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:05] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:07,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:07] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:08,563 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:30:09,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:09] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:10,577 - WARNING - No data received, connection may have closed.
+2025-03-07 14:30:10,577 - INFO - Socket closed.
+2025-03-07 14:30:10,577 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:30:11,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:11] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:13,580 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:30:13,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:13] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:15,593 - WARNING - No data received, connection may have closed.
+2025-03-07 14:30:15,594 - INFO - Socket closed.
+2025-03-07 14:30:15,594 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:30:15,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:15] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:17,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:17] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:18,608 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:30:19,990 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:19] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:20,610 - WARNING - No data received, connection may have closed.
+2025-03-07 14:30:20,610 - INFO - Socket closed.
+2025-03-07 14:30:20,610 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:30:21,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:21] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:23,623 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:30:23,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:23] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:25,633 - WARNING - No data received, connection may have closed.
+2025-03-07 14:30:25,633 - INFO - Socket closed.
+2025-03-07 14:30:25,634 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:30:25,690 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:25] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:27,992 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:27] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:28,635 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:30:29,689 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:29] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:30,648 - WARNING - No data received, connection may have closed.
+2025-03-07 14:30:30,648 - INFO - Socket closed.
+2025-03-07 14:30:30,648 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:30:35,313 - INFO - Starting Flask app at http://localhost:5000...
+2025-03-07 14:30:35,334 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-03-07 14:30:35,334 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 14:30:35,908 - INFO - Starting standalone PyQt window...
+2025-03-07 14:30:37,271 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:37] "GET / HTTP/1.1" 200 -
+2025-03-07 14:30:37,321 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:30:37,542 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:37] "GET /static/style.css HTTP/1.1" 200 -
+2025-03-07 14:30:37,580 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:37] "GET /static/script.js HTTP/1.1" 200 -
+2025-03-07 14:30:37,583 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-07 14:30:39,336 - WARNING - No data received, connection may have closed.
+2025-03-07 14:30:39,336 - INFO - Socket closed.
+2025-03-07 14:30:39,336 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:30:39,885 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:39] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:41,583 - INFO - 127.0.0.1 - - [07/Mar/2025 14:30:41] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:30:42,337 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:06,921 - INFO - Starting Flask app at http://localhost:5000...
+2025-03-07 14:31:06,944 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-03-07 14:31:06,944 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 14:31:07,654 - INFO - Starting standalone PyQt window...
+2025-03-07 14:31:08,929 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:09,077 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:09] "GET / HTTP/1.1" 200 -
+2025-03-07 14:31:09,357 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-03-07 14:31:09,387 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:09] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-03-07 14:31:09,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-07 14:31:10,945 - WARNING - No data received, connection may have closed.
+2025-03-07 14:31:10,945 - INFO - Socket closed.
+2025-03-07 14:31:10,945 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:31:11,694 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:11] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:13,391 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:13] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:13,948 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:15,692 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:15] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:15,962 - WARNING - No data received, connection may have closed.
+2025-03-07 14:31:15,962 - INFO - Socket closed.
+2025-03-07 14:31:15,962 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:31:17,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:17] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:18,965 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:19,692 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:19] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:20,978 - WARNING - No data received, connection may have closed.
+2025-03-07 14:31:20,978 - INFO - Socket closed.
+2025-03-07 14:31:20,978 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:31:21,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:21] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:23,691 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:23] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:23,984 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:25,391 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:25] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:25,997 - WARNING - No data received, connection may have closed.
+2025-03-07 14:31:25,997 - INFO - Socket closed.
+2025-03-07 14:31:25,997 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:31:27,695 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:27] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:29,000 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:29,391 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:29] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:31,014 - WARNING - No data received, connection may have closed.
+2025-03-07 14:31:31,014 - INFO - Socket closed.
+2025-03-07 14:31:31,014 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:31:31,692 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:31] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:33,391 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:33] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:34,015 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:35,696 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:35] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:36,027 - WARNING - No data received, connection may have closed.
+2025-03-07 14:31:36,027 - INFO - Socket closed.
+2025-03-07 14:31:36,027 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:31:37,391 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:37] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:39,032 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:39,693 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:39] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:41,045 - WARNING - No data received, connection may have closed.
+2025-03-07 14:31:41,045 - INFO - Socket closed.
+2025-03-07 14:31:41,045 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:31:41,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:41] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:43,693 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:43] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:44,050 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:45,391 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:45] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:46,064 - WARNING - No data received, connection may have closed.
+2025-03-07 14:31:46,064 - INFO - Socket closed.
+2025-03-07 14:31:46,064 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:31:46,543 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:47,693 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:47] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:49,068 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:49,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:49] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:51,082 - WARNING - No data received, connection may have closed.
+2025-03-07 14:31:51,082 - INFO - Socket closed.
+2025-03-07 14:31:51,083 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:31:51,692 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:51] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:53,391 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:53] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:54,084 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:55,692 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:55] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:56,098 - WARNING - No data received, connection may have closed.
+2025-03-07 14:31:56,098 - INFO - Socket closed.
+2025-03-07 14:31:56,098 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:31:57,391 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:57] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:31:59,100 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:31:59,692 - INFO - 127.0.0.1 - - [07/Mar/2025 14:31:59] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:01,113 - WARNING - No data received, connection may have closed.
+2025-03-07 14:32:01,113 - INFO - Socket closed.
+2025-03-07 14:32:01,113 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:32:01,391 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:01] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:03,694 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:03] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:04,120 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:32:05,391 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:05] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:06,254 - WARNING - No data received, connection may have closed.
+2025-03-07 14:32:06,254 - INFO - Socket closed.
+2025-03-07 14:32:06,254 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:32:07,693 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:07] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:09,269 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:32:09,391 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:09] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:11,272 - WARNING - No data received, connection may have closed.
+2025-03-07 14:32:11,273 - INFO - Socket closed.
+2025-03-07 14:32:11,273 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:32:11,695 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:11] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:13,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:13] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:14,281 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:32:15,696 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:15] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:16,295 - WARNING - No data received, connection may have closed.
+2025-03-07 14:32:16,295 - INFO - Socket closed.
+2025-03-07 14:32:16,295 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:32:17,392 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:17] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:19,298 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:32:19,693 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:19] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:21,317 - WARNING - No data received, connection may have closed.
+2025-03-07 14:32:21,317 - INFO - Socket closed.
+2025-03-07 14:32:21,317 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:32:21,458 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:21] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:23,694 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:23] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:24,332 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:32:25,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:25] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:26,336 - WARNING - No data received, connection may have closed.
+2025-03-07 14:32:26,336 - INFO - Socket closed.
+2025-03-07 14:32:26,336 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:32:27,693 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:27] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:29,339 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:32:29,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:29] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:31,355 - WARNING - No data received, connection may have closed.
+2025-03-07 14:32:31,355 - INFO - Socket closed.
+2025-03-07 14:32:31,355 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:32:31,695 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:31] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:33,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:33] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:34,360 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:32:35,693 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:35] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:36,374 - WARNING - No data received, connection may have closed.
+2025-03-07 14:32:36,375 - INFO - Socket closed.
+2025-03-07 14:32:36,375 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:32:37,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:37] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:39,379 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:32:39,692 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:39] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:41,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:41] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:41,393 - WARNING - No data received, connection may have closed.
+2025-03-07 14:32:41,393 - INFO - Socket closed.
+2025-03-07 14:32:41,393 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:32:43,694 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:43] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:44,407 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:32:45,390 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:45] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:46,243 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:53,084 - INFO - Starting Flask app at http://localhost:5000...
+2025-03-07 14:32:53,104 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-03-07 14:32:53,104 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 14:32:53,728 - INFO - Starting standalone PyQt window...
+2025-03-07 14:32:55,103 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:32:55,158 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:55] "GET / HTTP/1.1" 200 -
+2025-03-07 14:32:55,432 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:55] "GET /static/style.css HTTP/1.1" 200 -
+2025-03-07 14:32:55,469 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:55] "GET /static/script.js HTTP/1.1" 200 -
+2025-03-07 14:32:55,474 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-07 14:32:57,107 - WARNING - No data received, connection may have closed.
+2025-03-07 14:32:57,107 - INFO - Socket closed.
+2025-03-07 14:32:57,107 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:32:57,775 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:57] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:32:59,473 - INFO - 127.0.0.1 - - [07/Mar/2025 14:32:59] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:00,111 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:01,776 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:01] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:02,126 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:02,126 - INFO - Socket closed.
+2025-03-07 14:33:02,126 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:33:03,473 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:03] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:05,129 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:05,775 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:05] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:07,142 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:07,142 - INFO - Socket closed.
+2025-03-07 14:33:07,142 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:33:07,473 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:07] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:09,776 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:09] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:10,157 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:11,473 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:11] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:12,161 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:12,161 - INFO - Socket closed.
+2025-03-07 14:33:12,161 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:33:13,774 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:13] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:15,165 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:15,475 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:15] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:17,178 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:17,178 - INFO - Socket closed.
+2025-03-07 14:33:17,178 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:33:17,777 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:17] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:19,474 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:19] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:20,186 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:21,777 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:21] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:22,198 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:22,198 - INFO - Socket closed.
+2025-03-07 14:33:22,198 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:33:23,475 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:23] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:25,199 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:25,777 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:25] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:27,213 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:27,213 - INFO - Socket closed.
+2025-03-07 14:33:27,213 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:33:27,475 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:27] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:29,777 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:29] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:30,218 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:31,475 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:31] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:32,232 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:32,232 - INFO - Socket closed.
+2025-03-07 14:33:32,233 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:33:33,777 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:33] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:35,245 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:35,475 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:35] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:37,249 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:37,249 - INFO - Socket closed.
+2025-03-07 14:33:37,249 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:33:37,777 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:37] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:39,475 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:39] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:40,253 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:41,777 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:41] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:42,268 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:42,268 - INFO - Socket closed.
+2025-03-07 14:33:42,268 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:33:43,475 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:43] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:45,274 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:45,774 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:45] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:46,544 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:46] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:47,286 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:47,286 - INFO - Socket closed.
+2025-03-07 14:33:47,286 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:33:47,475 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:47] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:49,774 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:49] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:50,291 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:51,475 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:51] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:52,305 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:52,305 - INFO - Socket closed.
+2025-03-07 14:33:52,305 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}
+2025-03-07 14:33:53,775 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:53] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:55,317 - INFO - Connected to RockSniffer at localhost:9938
+2025-03-07 14:33:55,473 - INFO - 127.0.0.1 - - [07/Mar/2025 14:33:55] "GET /data HTTP/1.1" 200 -
+2025-03-07 14:33:57,331 - WARNING - No data received, connection may have closed.
+2025-03-07 14:33:57,331 - INFO - Socket closed.
+2025-03-07 14:33:57,331 - INFO - Overlay updated with data: {'song': 'N/A', 'artist': 'N/A', 'album': 'N/A', 'theory': 'N/A', 'trivia': 'N/A', 'hitrate': 0.0, 'hitrate_history': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'streak': 'N/A', 'highest_streak': 'N/A', 'live_ai': False}

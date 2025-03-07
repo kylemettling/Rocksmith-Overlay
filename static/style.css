@@ -12,10 +12,6 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 0;
-    cursor: move;
-    /* Indicate draggable */
-    user-select: none;
-    /* Prevent text selection while dragging */
 }
 
 #overlay-main-content {
