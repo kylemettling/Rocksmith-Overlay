@@ -1,28 +1,24 @@
 body {
-    background: transparent !important;
-    color: white;
-    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    height: 100vh;
+    background: transparent;
+    font-family: Arial, sans-serif;
 }
 
 #overlay {
     position: absolute;
-    background: rgba(0, 0, 0, 0.3);
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
     padding: 10px;
-    overflow: auto;
     display: flex;
     flex-direction: column;
     min-height: 0;
+    cursor: move;
+    /* Indicate draggable */
+    user-select: none;
+    /* Prevent text selection while dragging */
 }
 
-#overlay .main-content {
+#overlay-main-content {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -30,52 +26,65 @@ body {
     min-height: 0;
 }
 
-#overlay .left-column {
+#overlay-left-column {
     display: flex;
     flex-direction: column;
-    max-width: 50%;
+    max-width: 508px;
     margin-right: 20px;
     overflow: auto;
+    min-width: 0;
     flex: 1;
-    min-height: 0;
 }
 
-#overlay .stats {
+#overlay-stats {
     display: flex;
     flex-direction: column;
-    flex: 1 auto;
+    flex: auto;
     min-width: 0;
 }
 
-#overlay .stats div {
-    margin: 8px 0;
+#overlay-main div {
+    margin: 0px 8px;
     word-wrap: break-word;
     max-width: 100%;
     line-height: 1.4;
 }
 
-#overlay .button-container {
+#overlay-button-container {
     margin-top: 10px;
     display: flex;
-    justify-content: flex-start;
-    padding: 10px 0;
-    min-height: 50px;
+    padding: 10px 0px;
     flex-shrink: 0;
 }
 
-#overlay .button-container button {
-    background: #555;
+#overlay-button-container button {
     color: white;
+    background: #555;
     border: none;
     padding: 8px 12px;
     cursor: pointer;
-    margin: 0;
+    margin: 0px;
     width: auto;
 }
 
-#overlay .chart {
-    flex: 0 0 400px;
+#overlay-chart {
+    flex: 0 8 400px;
     max-width: 400px;
-    min-width: 400px;
+    min-width: 200px;
     margin-left: 20px;
+}
+
+.info-item {
+    font-size: 14px;
+    margin: 2px 0;
+    color: white;
+}
+
+.info-item span {
+    font-weight: bold;
+}
+
+#hitrateChart {
+    width: 100% !important;
+    height: 100% !important;
 }

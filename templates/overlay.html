@@ -4,15 +4,31 @@
 <head>
     <title>Rocksmith Overlay</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
-    <div id="overlay" class="draggable">
-        <p>Song: {{ data.song }}</p>
-        <p>Artist: {{ data.artist }}</p>
-        <p>Album: {{ data.album }}</p>
-        <p>Hitrate: {{ data.hitrate }}%</p>
-        <!-- Add hitrate graph or other UI elements -->
+    <div id="overlay">
+        <div id="overlay-main-content">
+            <div id="overlay-left-column">
+                <p class="info-item"><span>Song:</span> <span id="song">N/A</span></p>
+                <p class="info-item"><span>Artist:</span> <span id="artist">N/A</span></p>
+                <p class="info-item"><span>Album:</span> <span id="album">N/A</span></p>
+                <p class="info-item"><span>Theory:</span> <span id="theory">N/A</span></p>
+                <p class="info-item"><span>Trivia:</span> <span id="trivia">N/A</span></p>
+                <p class="info-item"><span>Hitrate:</span> <span id="hitrate">0.0%</span></p>
+                <p class="info-item"><span>Streak:</span> <span id="streak">N/A</span></p>
+                <p class="info-item"><span>Highest Streak:</span> <span id="highest_streak">N/A</span></p>
+                <p class="info-item"><span>Live AI:</span> <span id="live_ai">OFF</span></p>
+            </div>
+            <div id="overlay-chart">
+                <canvas id="hitrateChart"></canvas>
+            </div>
+        </div>
+        <div id="overlay-button-container">
+            <button id="close_button">Close</button>
+            <button id="live_ai_button">Toggle Live AI</button>
+        </div>
     </div>
     <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
