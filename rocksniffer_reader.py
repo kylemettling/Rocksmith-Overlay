@@ -21,7 +21,6 @@ class RockSnifferReader:
         self.sock = None
 
     def connect(self):
-        """Attempt to connect to RockSniffer with retries."""
         retries = 0
         while retries < self.max_retries:
             try:
@@ -36,46 +35,46 @@ class RockSnifferReader:
         return False
 
     def read_data(self):
-        """Read and parse data from RockSniffer."""
         if not self.sock and not self.connect():
-            return None
+            return {"song": "N/A", "artist": "N/A", "album": "N/A", "hitrate": 0.0}
 
         try:
             data = self.sock.recv(1024).decode('utf-8')
             if not data:
                 logger.warning("No data received, connection may have closed.")
                 self.close()
-                return None
+                return {"song": "N/A", "artist": "N/A", "album": "N/A", "hitrate": 0.0}
+
             logger.info(f"Received raw data: {data}")
-            parsed_data = json.loads(data)  # Assuming RockSniffer sends JSON
-            return parsed_data
+            parsed_data = json.loads(data)
+            # Validate expected fields (adjust based on RockSniffer output)
+            return {
+                "song": parsed_data.get("song", "N/A"),
+                "artist": parsed_data.get("artist", "N/A"),
+                "album": parsed_data.get("album", "N/A"),
+                "hitrate": float(parsed_data.get("hitrate", 0.0))
+            }
         except (socket.error, json.JSONDecodeError, ConnectionError) as e:
             logger.error(f"Error reading RockSniffer data: {e}")
             self.close()
-            return None
+            return {"song": "N/A", "artist": "N/A", "album": "N/A", "hitrate": 0.0}
         except Exception as e:
             logger.critical(f"Unexpected error: {e}")
             self.close()
-            return None
+            return {"song": "N/A", "artist": "N/A", "album": "N/A", "hitrate": 0.0}
 
     def close(self):
-        """Close the socket connection."""
         if self.sock:
             self.sock.close()
             logger.info("Socket closed.")
             self.sock = None
 
     def __del__(self):
-        """Ensure socket is closed on object destruction."""
         self.close()
 
-# Example usage for testing
 if __name__ == "__main__":
     reader = RockSnifferReader()
     while True:
         data = reader.read_data()
-        if data:
-            print(f"Processed data: {data}")
-        else:
-            print("Failed to read data, retrying...")
-        time.sleep(1)  # Adjust polling interval
+        print(f"Processed data: {data}")
+        time.sleep(1)
